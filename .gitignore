@@ -1,2 +1,3 @@
-**data/*
+..gitignore.swp
+*data/*
 !data/__init__.py
